@@ -2,5 +2,5 @@
 
 ## Hobby
 
-- Bicycle
+- [[Bicycle]]
 - Bass Guitar
