@@ -1,0 +1,6 @@
+markdown: CommonMarkGhPages
+# see https://github.com/gjtorikian/commonmarker#parse-options
+commonmark:
+  extensions:
+    - autolink
+    - strikethrough
